@@ -1,4 +1,4 @@
-QuickChart
+Modified QuickChart for CITIESair
 ---
 [![Build Status](https://api.travis-ci.com/typpo/quickchart.svg?branch=master)](https://travis-ci.com/typpo/quickchart)
 
